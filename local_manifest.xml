@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="org" fetch="https://github.com/orgs/vayu-development-sources/" />
+<remote name="org2" fetch="https://github.com/rom-vayu/" />
 <remote name="momen" fetch="https://github.com/momenabdulrazek/" />
 <remote name="bag" fetch="https://github.com/bagaskara815/" />
 
@@ -8,5 +9,5 @@
   <project path="vendor/xiaomi/vayu" remote="org" name="vendor_xiaomi_vayu" revision="A15" />
   <project path="kernel/xiaomi/vayu" remote="bag" name="kernel_xiaomi_vayu" revision="14-derp" />
   <project path="vendor/lineage-priv/keys" remote="momen" name="my_sign_test_keys" revision="QPR3" />
-  <project path="hardware/xiaomi" remote="org" name="android_hardware_xiaomi" revision="lineage-22" />
+  <project path="hardware/xiaomi" remote="org2" name="android_hardware_xiaomi" revision="lineage-22" />
 </manifest>
