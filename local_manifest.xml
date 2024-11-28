@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote name="org" fetch="https://github.com/orgs/vayu-development-sources/" />
+<remote name="org" fetch="https://github.com/vayu-development-sources/" />
 <remote name="org2" fetch="https://github.com/rom-vayu/" />
 <remote name="momen" fetch="https://github.com/momenabdulrazek/" />
 <remote name="bag" fetch="https://github.com/bagaskara815/" />
