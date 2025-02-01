@@ -7,5 +7,5 @@
   <project path="vendor/xiaomi/vayu" remote="org" name="vendor_xiaomi_vayu" revision="A15-dolby" />
   <project path="kernel/xiaomi/vayu" remote="org" name="kernel_xiaomi_vayu" revision="ksu-perf" />
   <project path="vendor/lineage-priv/keys" remote="momen" name="my_sign_test_keys" revision="QPR3" />
-  <project path="hardware/xiaomi" remote="org" name="hardware_xiaomi" revision="vauxite" />
+  <project path="hardware/xiaomi" remote="org" name="hardware_xiaomi" revision="15.0" />
 </manifest>
